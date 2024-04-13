@@ -14,18 +14,11 @@
 ###
 
 <div align="left">
-  <img src="https://th.bing.com/th/id/R.7203b83ce78d47fb7a28783759aeabb9?rik=zSfZIpnTqO5thQ&pid=ImgRaw&r=0" height="30" alt="generative ai logo"  />
+  <img src="https://www.fleksy.com/wp-content/uploads/2023/06/heroine-generative_blob.png" height="30" alt="generative ai logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.2dd0c1971b12a371cc78847c860d6194?rik=z%2fkhgM9fBDD%2fXg&pid=ImgRaw&r=0" height="30" alt="autodesk logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.6d953c514754d5adf64d19e8d074fa85?rik=7zmITXNPG5JXPA&pid=ImgRaw&r=0" height="30" alt="solidworks logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
